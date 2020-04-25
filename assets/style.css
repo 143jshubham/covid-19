@@ -1,0 +1,30 @@
+body{
+    background-color:#000;
+    /*#2b2197  #372ac0*/
+}
+.card{
+    border:none;
+    box-shadow: 0 1px 5px rgba(104 ,104 ,104, 0.8);
+}
+
+.jumbotron{
+    color:#fff;
+    height:6px;
+    background-color:#372ac0;
+    margin-top:1rem;
+    margin-bottom:2rem;
+    padding-top:2px;
+    box-shadow: 0 1px 5px rgba(104 ,104 ,104, 0.8);
+    border:none;
+}
+.jumbotron H1{
+    text-align:center;
+    font-width:40px;
+
+}
+.card-body H3{
+    color:#fff;
+}
+.card-body H6{
+    color:#fff;
+}
